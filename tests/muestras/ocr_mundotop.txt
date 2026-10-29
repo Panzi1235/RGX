@@ -1,0 +1,32 @@
+MundoTop
+CORPORACION MUNDOTOP SAC FACTURA ELECTRONICA
+AV. PEDRO HUILLCA BLOCK 2 SUBLT 5-2 MZA. C LOTE. 5 PARCELA I] PARQUE RUC: 20615190056
+INDUSTRIAL DEL CONO SUR, LIMA- LIMA - VILLA EL SALVADOR _ F001-5043
+Lima -Lima-Villa El Salvador
+Fecha de Emisién > 17/08/2026 Forma de pago : Contado
+Sefior(es) : AQUARIUS CONSULTING S.A.C.
+RUC : 2050327 1592
+AV. ANGAMOS NRO. 2015 URB. SAN BORJA
+Direccién del Cliente :(ATRES CUADRA DE ANGAMOS CON
+TOMAS MARZ), LIMA - LIMA - SAN BORJA
+Tipo de Moneda > SOL
+Observacion I:
+Cantidad Unidad Medida Cédigo Descripcién Valor Unitario ICBPER
+10 UNIDAD 3689443 PAPEL HIGIENICO PAPELITO X 6 8.38983051 0.00
+Descuento Global * : S/ 0.00
+Total valor venta gravado : S/ 83.90
+Total valor venta inafecto : S/ 0.00
+Total valor venta exonerado - 'St0.00
+Total valor venta gratuito : S/ 0.00
+Total valor venta exportacién : S/ 0.00
+Descuento Global ** : S/ 0.00
+SON: NOVENTA Y NUEVE Y 00/100 SOLES Total descuentos : S/ 0.00
+Sumatoria otros tributos : S/ 0.00
+* Descuento Global que Afecta la Base Imponible Sumatoria otros cargos : S/ 0.00
+** Descuento Global que no Afecta la Base Imponible Sumatoria ISC. - S/ 0.00
+Sumatoria IGV : S/ 16.40
+Sumatoria ICBPER : S/ 0.00
+Monto total del anticipo : S/ 0.00
+Monto de Redondeo : S/ 0.00
+importe total : S/ 99.00
+|Esta es una representacion impresa de Ja factura electronica, generada en el Sistema de SUNAT. Puede verificaria utilizando su clave SOL.

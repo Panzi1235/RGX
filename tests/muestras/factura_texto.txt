@@ -1,0 +1,24 @@
+CORPORACION LOGISTICA DEL SUR S.A.C.
+AV. JAVIER PRADO ESTE 1234 - SAN ISIDRO - LIMA
+TELF: 01-4567890   www.corplogsur.com.pe
+R.U.C. N° 20100070970
+FACTURA ELECTRÓNICA
+F001-00000123
+Señor(es): SUPERINTENDENCIA NACIONAL DE ADUANAS Y DE ADMINISTRACION TRIBUTARIA
+RUC: 20131312955
+Dirección: AV. GARCILASO DE LA VEGA 1472 - LIMA
+Fecha de Emisión: 15/10/2026      Hora: 10:30:15
+Fecha de Vencimiento: 14/11/2026
+Moneda: SOLES          Forma de Pago: Crédito
+Orden de Compra: OC-2026-0099
+Cant.  Und.  Descripción                          P. Unit.   Importe
+2      ZZ    SERVICIO DE TRANSPORTE DE CARGA       50.00     100.00
+SON: CIENTO DIECIOCHO CON 00/100 SOLES
+Op. Gravada     S/      100.00
+Op. Exonerada   S/        0.00
+Op. Inafecta    S/        0.00
+I.G.V. 18%      S/       18.00
+Importe Total   S/      118.00
+Operación sujeta a detracción (12%) Cod. 037 - Monto: S/ 14.16 - Cta. Banco de la Nación 00-000-123456
+Representación impresa de la FACTURA ELECTRÓNICA. Consulte en www.sunat.gob.pe
+Hash: Kj8sd9f8sdf98sdf9sdf8sdf8sdf8sdf=

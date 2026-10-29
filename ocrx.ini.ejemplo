@@ -1,0 +1,17 @@
+; OCRX - configuracion del servicio (copiar como ocrx.ini junto a ocrx.exe)
+; Fase 1: el servicio lee puerto y rutas de la linea de comandos; este archivo queda listo para la fase 2.
+[servicio]
+puerto = 8085
+hilos = 0            ; 0 = automatico (nucleos de la maquina)
+max_mb = 64          ; tamano maximo del archivo recibido
+
+[motor]
+modelos = models     ; carpeta con los modelos ONNX (fase 2)
+padron  = datos\padron\ruc.idx   ; indice del padron RUC (fase 2)
+dpi = 300
+gpu = si             ; DirectML si hay tarjeta de video
+umbral_revision = 0.85
+
+[log]
+carpeta = logs
+nivel = info

@@ -1,0 +1,17 @@
+{
+  "name": "ocrx",
+  "version-string": "0.1.0",
+  "description": "Motor de lectura de comprobantes SUNAT en C",
+  "dependencies": [
+    "expat",
+    "zlib",
+    "quirc",
+    "libjpeg-turbo",
+    "libpng",
+    { "name": "tiff", "default-features": false, "features": ["jpeg", "zip"] },
+    "tesseract"
+  ],
+  "vcpkg-configuration": {
+    "overlay-ports": ["./vcpkg-overlay"]
+  }
+}

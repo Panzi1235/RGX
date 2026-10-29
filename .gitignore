@@ -1,0 +1,16 @@
+build/
+build-linux/
+dist/
+third_party/pdfium/
+models/
+datos/
+logs/
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+ocrx.ini
+.vs/
+.vscode/
